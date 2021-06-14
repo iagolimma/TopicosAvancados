@@ -42,8 +42,8 @@
             <SortedDescendingCellStyle BackColor="#E9EBEF" />
             <SortedDescendingHeaderStyle BackColor="#4870BE" />
             <Columns>
-                <asp:BoundField DataField="Id_Livro" HeaderText="Id" />
-                <asp:BoundField DataField="Desc_Livro" HeaderText="Descricao" />   
+                <asp:BoundField DataField="Id" HeaderText="Id" />
+                <asp:BoundField DataField="Regiao" HeaderText="Descricao" />   
                 <asp:BoundField DataField="Autor_livro" HeaderText="Autor" />              
                 <asp:TemplateField HeaderText="Ações">
                     <ItemTemplate>
